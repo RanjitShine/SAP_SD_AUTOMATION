@@ -1,0 +1,35 @@
+﻿1,2,3,4,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,5,6,Unnamed: 11,Unnamed: 12
+SL.No.,Sales Document type,Description,Number range Internal,Number range Internal - From,Number range Internal - TO,Number range External,Number range External - From,Number range External- TO,Number range Internal - From,Number range Internal - TO,Number,From Number
+Length,4,20,2,,,,,,10,10,,
+,Sales document number ranges,,,,,,,,,,,
+1,ZBDO,Domestic Order,01,130000001,139999999,02,5000000,5999999,0000000001,0004999999,1,1
+2,ZFOB, FOB Sales,01,130000001,139999999,02,5000000,5999999,0000000001,0004999999,2,5000000
+3,ZCFM,C&F Sales,01,130000001,139999999,02,5000000,5999999,0000000001,0004999999,8,35000000
+4,ZMTO,MTO Sales Order,01,130000001,139999999,02,5000000,5999999,0000000001,0004999999,9,40000000
+5,ZPMS,Promotional Sales,01,130000001,139999999,02,5000000,5999999,0000000001,0004999999,10,45000000
+6,ZSAM,Sample order,01,130000001,139999999,02,5000000,5999999,0000000001,0004999999,11,50000000
+7,ZINS,Institutional Sales,01,130000001,139999999,02,5000000,5999999,0000000001,0004999999,12,55000000
+8,ZEXP,Export Sales,01,130000001,139999999,02,5000000,5999999,0000000001,0004999999,13,60000000
+9,RE,Returns,01,130000001,139999999,02,5000000,5999999,0000000001,0004999999,14,65000000
+,Billing Document types number ranges,,,,,,,,,,20,95000000
+,Billing type,Billing type Description,Number range,Number range From,Number range To,,,,Proposed Number range Internal - From,ProposedNumber range Internal - TO,21,84000000
+1,ZBDF,Domestic Invoice,19,90000000,94999999,,,,0090000000,0094999999,22,89000000
+2,ZFOF, FOB Sales Invoice,19,,,,,,0090000000,0094999999,,
+3,ZCFF,C&F Sales Invoice,19,,,,,,0090000000,0094999999,,
+4,ZMTF,MTO Sales Invoice,19,,,,,,0090000000,0094999999,23,100000000
+5,ZPMF,Promotional Sales Invoice,19,,,,,,0090000000,0094999999,24,83000000
+6,ZSAF,Sample Sales Invoice,19,,,,,,0090000000,0094999999,41,180000000
+7,ZINF,Institutional Sales Invoice,19,90000000,94999999,,,,0090000000,0094999999,42,185000000
+8,ZEXF,Export Sales Invoice,19,90000000,94999999,,,,0090000000,0094999999,50,8000001
+9,RE,Returns,19,90000000,94999999,,,,0090000000,0094999999,51,9000001
+,Delivery types number ranges,,,,,,,,,,63,610001
+,Delivery types number ranges,Delivery type Description,Number range Internal,Number range Internal - From,Number range Internal - TO,Number range External,Number range External - From,Number range External- TO,Number range Internal - From,Number range Internal - TO,64,640001
+1,ZBDL,Domestic Sales - Delivery,17,,,,,,0080000000,0083999999,65,650001
+2,ZFOL, FOB Sales - Delivery,17,,,,,,0080000000,0083999999,  ,_
+3,ZCFL,C&F Sales - Delivery,17,,,,,,0080000000,0083999999,,
+4,ZMTL,MTO Delivery,17,,,,,,0080000000,0083999999,,
+5,ZPML,Promotional Sales - Delivery,17,,,,,,0080000000,0083999999,,
+6,ZSAL,Sample Sales - Delivery,17,,,,,,0080000000,0083999999,,
+7,ZINL,Institutional Sales - Delivery,17,,,,,,0080000000,0083999999,,
+8,ZEXL,Export Sales - Delivery,17,,,,,,0080000000,0083999999,,
+9,LR,Returns Delivery,17,,,,,,0080000000,0083999999,,

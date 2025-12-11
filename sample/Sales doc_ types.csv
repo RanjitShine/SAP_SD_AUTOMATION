@@ -1,0 +1,10 @@
+﻿SL.No.,Sales Doc. Type,Description
+1,ZBDO,Domestic Order
+2,ZFOB, FOB Sales
+3,ZCFM,C&F Sales
+4,ZMTO,MTO Sales Order
+5,ZPMS,Promotional Sales
+6,ZSAM,Sample order
+7,ZINS,Institutional Sales
+8,ZEXP,Export Sales
+9,RE,Returns

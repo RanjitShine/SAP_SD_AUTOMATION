@@ -1,0 +1,11 @@
+﻿SL.No.,Billing type,Billing type Description
+Length,4,20
+1,ZBDF,Domestic Invoice
+2,ZFOF, FOB Sales Invoice
+3,ZCFF,C&F Sales Invoice
+4,ZMTF,MTO Sales Invoice
+5,ZPMF,Promotional Sales Invoice
+6,ZSAF,Sample Sales Invoice
+7,ZINF,Institutional Sales Invoice
+8,ZEXF,Export Sales Invoice
+9,RE,Returns

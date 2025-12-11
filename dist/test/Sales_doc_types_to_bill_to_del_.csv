@@ -1,0 +1,11 @@
+﻿SL.No.,Sales order type,Description,Delivery type,Description.1,Billing type,Description.2
+Length,4,20,4,20,4,20
+1,ZBDO,Domestic Order,ZBDL,Domestic Sales - Delivery,ZBDF,Domestic Invoice
+2,ZFOB, FOB Sales,ZFOL, FOB Sales - Delivery,ZFOF, FOB Sales Invoice
+3,ZCFM,C&F Sales,ZCFL,C&F Sales - Delivery,ZCFF,C&F Sales Invoice
+4,ZMTO,MTO Sales Order,ZMTL,MTO Delivery,ZMTF,MTO Sales Invoice
+5,ZPMS,Promotional Sales,ZPML,Promotional Sales - Delivery,ZPMF,Promotional Sales Invoice
+6,ZSAM,Sample order,ZSAL,Sample Sales - Delivery,ZSAF,Sample Sales Invoice
+7,ZINS,Institutional Sales,ZINL,Institutional Sales - Delivery,ZINF,Institutional Sales Invoice
+8,ZEXP,Export Sales,ZEXL,Export Sales - Delivery,ZEXF,Export Sales Invoice
+9,RE,Returns,LR,Returns Delivery,RE,Returns

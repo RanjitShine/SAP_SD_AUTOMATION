@@ -1,0 +1,29 @@
+﻿SL.No.,Sales Organization,Desciption of Sales org,Distribution Channel,Description of Distribution channel,Division,Description of Division
+1,1000,GENO Sales Orgn,10,Direct Customers,10,Pharma Division
+2,1000,GENO Sales Orgn,10,Direct Customers,20,Non Pharma Division
+3,1000,GENO Sales Orgn,10,Direct Customers,30,Herbal Division
+4,1000,GENO Sales Orgn,10,Direct Customers,40,Beauty Product
+5,1000,GENO Sales Orgn,10,Direct Customers,50,Surgical division
+6,1000,GENO Sales Orgn,20,Sales from C&F,10,Pharma Division
+7,1000,GENO Sales Orgn,20,Sales from C&F,30,Herbal Division
+8,1000,GENO Sales Orgn,20,Sales from C&F,40,Beauty Product
+9,1000,GENO Sales Orgn,20,Sales from C&F,50,Surgical division
+10,1000,GENO Sales Orgn,30,Scrap Sales,10,Pharma Division
+11,1000,GENO Sales Orgn,30,Scrap Sales,50,Surgical division
+12,1000,GENO Sales Orgn,40,RM & PM Sales,10,Pharma Division
+13,1000,GENO Sales Orgn,40,RM & PM Sales,40,Beauty Product
+14,1000,GENO Sales Orgn,40,RM & PM Sales,50,Surgical division
+15,1000,GENO Sales Orgn,50,Institutional Sales,10,Pharma Division
+16,1000,GENO Sales Orgn,50,Institutional Sales,30,Herbal Division
+17,1000,GENO Sales Orgn,60,MTO,10,Pharma Division
+18,1000,GENO Sales Orgn,60,MTO,20,Non Pharma Division
+19,1000,GENO Sales Orgn,60,MTO,30,Herbal Division
+20,1000,GENO Sales Orgn,60,MTO,40,Beauty Product
+21,1000,GENO Sales Orgn,60,MTO,50,Surgical division
+25,1000,GENO Sales Orgn,70,Stock Transfers,10,Pharma Division
+26,1000,GENO Sales Orgn,70,Stock Transfers,40,Beauty Product
+27,1000,GENO Sales Orgn,80,Export Sales,10,Pharma Division
+28,1000,GENO Sales Orgn,80,Export Sales,20,Non Pharma Division
+29,1000,GENO Sales Orgn,80,Export Sales,30,Herbal Division
+30,1000,GENO Sales Orgn,80,Export Sales,40,Beauty Product
+31,1000,GENO Sales Orgn,80,Export Sales,50,Surgical division
