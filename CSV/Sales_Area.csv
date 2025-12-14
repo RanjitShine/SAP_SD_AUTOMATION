@@ -1,0 +1,9 @@
+﻿SL.No.,Sales Organization,Desciption of Sales org,Distribution Channel,Description of Distribution channel,Division,Description of Division
+1,1010,GENO Sales Orgn,10,Direct Customers,10,Pharma Division
+9,1010,GENO Sales Orgn,20,Sales from C&F,50,Surgical division
+10,1010,GENO Sales Orgn,30,Scrap Sales,10,Pharma Division
+14,1010,GENO Sales Orgn,40,RM & PM Sales,50,Surgical division
+15,1010,GENO Sales Orgn,50,Institutional Sales,10,Pharma Division
+21,1010,GENO Sales Orgn,60,MTO,50,Surgical division
+25,1010,GENO Sales Orgn,70,Stock Transfers,10,Pharma Division
+31,1010,GENO Sales Orgn,80,Export Sales,50,Surgical division
