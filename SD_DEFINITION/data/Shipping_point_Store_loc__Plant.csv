@@ -1,0 +1,30 @@
+﻿1,CL11,1101,RM Stores,CL11.1,01,CL12,1201,RM Stores.1,CL12.1,Unnamed: 10,CL13,1301,RM Stores.2,CL13.1,Unnamed: 15,CI11,1101.1,RM Stores.3,CI11.1,Unnamed: 20,CI12,1201.1,RM Stores.4,CI12.1,Unnamed: 25,CI13,1301.1,RM Stores.5,CI13.1
+2,,1102,PM Stores,CL11,1.0,,1202,PM Stores,CL12,,,1302,PM Stores,CL13,,,1102,PM Stores,CI11,,,1202,PM Stores,CI12,,,1302,PM Stores,CI13
+3,,1103,SFG Store,CL11,1.0,,1203,SFG Store,CL12,,,1303,SFG Store,CL13,,,1103,SFG Store,CI11,,,1203,SFG Store,CI12,,,1303,SFG Store,CI13
+4,,1104,FG Stores,CL11,1.0,,1204,FG Stores,CL12,,,1304,FG Stores,CL13,,,1104,FG Stores,CI11,,,1204,FG Stores,CI12,,,1304,FG Stores,CI13
+5,,1105,Bulk Storage,CL11,1.0,,1205,Bulk Storage,CL12,,,1305,Bulk Storage,CL13,,,1105,Production Store,CI11,,,1205,Production Store,CI12,,,1305,Production Store,CI13
+6,,1106,Production Storage,CL11,1.0,,1206,Production Storage,CL12,,,1306,Production Storage,CL13,,,1106,Return Store,CI11,,,1206,Return Store,CI12,,,1306,Return Store,CI13
+7,,1107,Return Store,CL11,1.0,,1207,Return Store,CL12,,,1307,Return Store,CL13,,,1107,Bonded Store,CI11,,,1207,Bonded Store,CI12,,,1307,Bonded Store,CI13
+8,,1108,Batch Expire,CL11,1.0,,1208,Batch Expire,CL12,,,1308,Batch Expire,CL13,,,1108,Kanban Store,CI11,,,1208,Kanban Store,CI12,,,1308,Kanban Store,CI13
+9,,1111,MRO Store,CL11,1.0,,1211,MRO Store,CL12,,,1311,MRO Store,CL13,,,,,CI11,,,,,CI12,,,,,CI13
+10,,1112,RM Stores LL,CL11,1.0,,1212,RM Stores LL,CL12,,,1312,RM Stores LL,CL13,,,,,CI11,,,,,CI12,,,,,CI13
+11,,1113,PM Stores LL,CL11,1.0,,1213,PM Stores LL,CL12,,,1313,PM Stores LL,CL13,,,,,CI11,,,,,CI12,,,,,CI13
+12,,1114,FG Stores LL,CL11,1.0,,1214,FG Stores LL,CL12,,,1314,FG Stores LL,CL13,,,,,CI11,,,,,CI12,,,,,CI13
+13,,1115,Bulk Storage LL,CL11,1.0,,1215,Bulk Storage LL,CL12,,,1315,Bulk Storage LL,CL13,,,,,CI11,,,,,CI12,,,,,CI13
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SL.No.,Plant,Code,Description,Shipping Point,,Plant,Code,Description,Shipping Point,,Plant,Code,Description,Shipping Point,,Plant,Code,Description,Shipping Point,,Plant,Code,Description,Shipping Point,,Plant,Code,Description,Shipping Point
+1,CL21,2101,RM Stores,CL21,,CL22,2201,RM Stores,CL22,,CL23,2301,RM Stores,CL23,,CI21,2101,RM Stores,CI21,,CI22,2201,RM Stores,CI22,,CI23,2301,RM Stores,CI23
+2,,2102,PM Stores,CL21,,,2202,PM Stores,CL22,,,2302,PM Stores,CL23,,,2102,PM Stores,CI21,,,2202,PM Stores,CI22,,,2302,PM Stores,CI23
+3,,2103,SFG Store,CL21,,,2203,SFG Store,CL22,,,2303,SFG Store,CL23,,,2103,SFG Store,CI21,,,2203,SFG Store,CI22,,,2303,SFG Store,CI23
+4,,2104,FG Stores,CL21,,,2204,FG Stores,CL22,,,2304,FG Stores,CL23,,,2104,FG Stores,CI21,,,2204,FG Stores,CI22,,,2304,FG Stores,CI23
+5,,2105,Bulk Storage,CL21,,,2205,Bulk Storage,CL22,,,2305,Bulk Storage,CL23,,,2105,Production Store,CI21,,,2205,Production Store,CI22,,,2305,Production Store,CI23
+6,,2106,Production Storage,CL21,,,2206,Production Storage,CL22,,,2306,Production Storage,CL23,,,2106,Return Store,CI21,,,2206,Return Store,CI22,,,2306,Return Store,CI23
+7,,2107,Return Store,CL21,,,2207,Return Store,CL22,,,2307,Return Store,CL23,,,2107,Bonded Store,CI21,,,2207,Bonded Store,CI22,,,2307,Bonded Store,CI23
+8,,2108,Batch Expire,CL21,,,2208,Batch Expire,CL22,,,2308,Batch Expire,CL23,,,2108,Kanban Store,CI21,,,2208,Kanban Store,CI22,,,2308,Kanban Store,CI23
+9,,2111,MRO Store,CL21,,,2211,MRO Store,CL22,,,2311,MRO Store,CL23,,,,,,,,,,,,,,,
+10,,2112,RM Stores LL,CL21,,,2212,RM Stores LL,CL22,,,2312,RM Stores LL,CL23,,,,,,,,,,,,,,,
+11,,2113,PM Stores LL,CL21,,,2213,PM Stores LL,CL22,,,2313,PM Stores LL,CL23,,,,,,,,,,,,,,,
+12,,2114,FG Stores LL,CL21,,,2214,FG Stores LL,CL22,,,2314,FG Stores LL,CL23,,,,,,,,,,,,,,,
+13,,2115,Bulk Storage LL,CL21,,,2215,Bulk Storage LL,CL22,,,2315,Bulk Storage LL,CL23,,,,,,,,,,,,,,,

@@ -10,7 +10,7 @@ import SALES_OFFICE
 import SALES_GROUP
 import SHIPPING_POINT
 
-FOLDER_NAME = "test"   # folder where CSVs will be saved
+FOLDER_NAME = "data"   # folder where CSVs will be saved
 
 def automate_all():
 

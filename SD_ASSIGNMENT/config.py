@@ -1,0 +1,7 @@
+SAP_USERNAME = "ALT_INTERNAI"
+SAP_PASSWORD = "Altivate@123"
+SAP_CLIENT = "050"           
+SAP_LANGUAGE = "EN"         
+SAP_CONNECTION_NAME = "DEMO 2022" 
+SAP_GUI_PATH = r"C:\Program Files (x86)\SAP\FrontEnd\SAPgui\saplogon.exe"
+SUPPRESS_SECURITY_PROMPTS = True
